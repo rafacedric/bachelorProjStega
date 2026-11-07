@@ -1,6 +1,0 @@
-{
-  "name": "ChessSteg — Deterministic PGN Steganography & Review Ledger",
-  "description": "Deterministic chess PGN steganography engine with reversible SHA-256 avalanche bitstream packing and interactive move-by-move game review ledger.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
